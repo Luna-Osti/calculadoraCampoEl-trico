@@ -1,4 +1,4 @@
-# calculadoraCampoEletrico
+# Calculadora Campo Elétrico
 Aplicação em java que cacula o campo elétrico resultante formado por partículas em um plano, inspirado no exercício 8 do caítulo 22 do livro de física de David Halliday
 
 ### Funções
